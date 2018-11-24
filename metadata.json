@@ -1,0 +1,15 @@
+{
+  "name": "boonchu-ssh",
+  "version": "0.1.0",
+  "author": "Boonchu <bigchoo@hotmail.com>",
+  "summary": "This module will manage SSH",
+  "license": "This module will manage SSH",
+  "source": "https://github.com/boonchu/boonchu-ssh.git",
+  "project_page": "https://github.com/boonchu/boonchu-ssh",
+  "issues_url": "https://github.com/boonchu/boonchu-ssh/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
